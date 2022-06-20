@@ -1,2 +1,2 @@
 # testing-folder
-Test code here
+Test code in this folder for random projects
